@@ -1,0 +1,14 @@
+[book]
+authors = ["Nima"]
+language = "en"
+multilingual = true
+src = "src"
+title = "mdBook video"
+
+[output.html]
+additional-css = ["auto-dir.css", "general.css"]
+additional-js = ["custom.js"]
+default-theme = "dark"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/nimafanniasl/mdBook-video"
+git-repository-icon = "fa-github"
