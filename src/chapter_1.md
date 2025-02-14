@@ -2,6 +2,6 @@
 
 This is some English text.
 
-این یک متن فارسی است
 
-[My website](https://smartnima.com)
+
+[Dazlabs-Documentation](http://192.168.50.143:3001/Dazlabs-Documentation)

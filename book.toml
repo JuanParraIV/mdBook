@@ -1,6 +1,6 @@
 [book]
-authors = ["Nima"]
-language = "en"
+authors = ["Dazlabs-Documentation"]
+language = "es"
 multilingual = true
 src = "src"
 title = "mdBook video"
